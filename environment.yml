@@ -1,0 +1,10 @@
+name: falls
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - xlrd
+  - jupyter
+  - jupyterlab
+  - ipykernel
