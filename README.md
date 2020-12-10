@@ -2,7 +2,7 @@ REGEX for fall events in Dutch
 ==============================
 *Jenia Kim*
 
-The repo contains the [vocabularies](vocabularies/) and [code](code/) used for baseline experiments in detecting fall events in clinical notes in Dutch.
+The repo contains the [vocabularies](vocabulary/) and [code](src/) used for baseline experiments in detecting fall events in clinical notes in Dutch.
 
 The vocabularies were constructed based on (a) a sample of clinical notes describing falls, (b) interviews with nurses at the Amsterdam UMC, and (c) lexical augmentation with synonyms.
 
